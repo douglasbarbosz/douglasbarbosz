@@ -7,7 +7,6 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=douglasbarbosz&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<br>
 <hr>
   
 <div align="center">
@@ -18,7 +17,6 @@
     <img align="center" alt="Logo-trap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
 </div>
 
-<br>
 <hr>
 
 <div align="center">
@@ -26,7 +24,6 @@
     <img align="center" alt="Logo-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-<br>
 <hr>
   
 <div align="center"> 
@@ -36,5 +33,4 @@
     <a href="https://www.instagram.com/douglasbarbosz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
  
-<br>
 <hr>
